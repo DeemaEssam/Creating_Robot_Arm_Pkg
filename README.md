@@ -67,9 +67,6 @@
    ```sh
    catkin_make
    ```
-
-<img width="947" alt="6" src="https://github.com/user-attachments/assets/ed240b98-8c16-4854-a654-8db5a8e7f6b8">
-
    
 3. Source the setup file:
    ```sh
