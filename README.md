@@ -55,6 +55,9 @@
    ```
 2. Write your ROS node code in `robot_arm_controller.cpp` to control the robot arm.
 
+![image](https://github.com/user-attachments/assets/8d9a3a34-cb31-4a8e-ab13-5b4bdd229b45)
+   
+
 ### Step 9: Build the Package
 1. Go back to the root of your workspace:
    ```sh
@@ -78,5 +81,7 @@
    ```sh
    roslaunch my_robot_arm display.launch
    ```
-
-By following these steps, you should be able to create and launch a robot arm package in ROS Noetic using The Construct. If you encounter any issues or need further assistance, feel free to ask!
+<img width="946" alt="7" src="https://github.com/user-attachments/assets/3325e0f5-23d0-435f-a7c7-540d7648e800">
+<img width="944" alt="8 editedLaunch" src="https://github.com/user-attachments/assets/6716fa15-7343-4465-925f-96d59df34d6b">
+<img width="946" alt="9" src="https://github.com/user-attachments/assets/05613a56-4fa9-4cae-a2b9-394bbd793ce5">
+<img width="944" alt="10" src="https://github.com/user-attachments/assets/72e567d8-3bf2-42c5-b404-c392b820b593">
